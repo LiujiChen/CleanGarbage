@@ -39,7 +39,7 @@
 
 # 3 部分游戏页面
 
-![](../../Liuji Chen/服务外包大赛/游戏截图/background_1.png)
+![](README.assets/background_1-16495753990132.png)
 
 
 
